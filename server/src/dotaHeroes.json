@@ -1,0 +1,637 @@
+[
+  {
+    "id": "antimage",
+    "name": "Anti-Mage",
+    "image": "/assets/dota/heroes/antimage.png"
+  },
+  {
+    "id": "axe",
+    "name": "Axe",
+    "image": "/assets/dota/heroes/axe.png"
+  },
+  {
+    "id": "bane",
+    "name": "Bane",
+    "image": "/assets/dota/heroes/bane.png"
+  },
+  {
+    "id": "bloodseeker",
+    "name": "Bloodseeker",
+    "image": "/assets/dota/heroes/bloodseeker.png"
+  },
+  {
+    "id": "crystal_maiden",
+    "name": "Crystal Maiden",
+    "image": "/assets/dota/heroes/crystal_maiden.png"
+  },
+  {
+    "id": "drow_ranger",
+    "name": "Drow Ranger",
+    "image": "/assets/dota/heroes/drow_ranger.png"
+  },
+  {
+    "id": "earthshaker",
+    "name": "Earthshaker",
+    "image": "/assets/dota/heroes/earthshaker.png"
+  },
+  {
+    "id": "juggernaut",
+    "name": "Juggernaut",
+    "image": "/assets/dota/heroes/juggernaut.png"
+  },
+  {
+    "id": "mirana",
+    "name": "Mirana",
+    "image": "/assets/dota/heroes/mirana.png"
+  },
+  {
+    "id": "nevermore",
+    "name": "Shadow Fiend",
+    "image": "/assets/dota/heroes/nevermore.png"
+  },
+  {
+    "id": "morphling",
+    "name": "Morphling",
+    "image": "/assets/dota/heroes/morphling.png"
+  },
+  {
+    "id": "phantom_lancer",
+    "name": "Phantom Lancer",
+    "image": "/assets/dota/heroes/phantom_lancer.png"
+  },
+  {
+    "id": "puck",
+    "name": "Puck",
+    "image": "/assets/dota/heroes/puck.png"
+  },
+  {
+    "id": "pudge",
+    "name": "Pudge",
+    "image": "/assets/dota/heroes/pudge.png"
+  },
+  {
+    "id": "razor",
+    "name": "Razor",
+    "image": "/assets/dota/heroes/razor.png"
+  },
+  {
+    "id": "sand_king",
+    "name": "Sand King",
+    "image": "/assets/dota/heroes/sand_king.png"
+  },
+  {
+    "id": "storm_spirit",
+    "name": "Storm Spirit",
+    "image": "/assets/dota/heroes/storm_spirit.png"
+  },
+  {
+    "id": "sven",
+    "name": "Sven",
+    "image": "/assets/dota/heroes/sven.png"
+  },
+  {
+    "id": "tiny",
+    "name": "Tiny",
+    "image": "/assets/dota/heroes/tiny.png"
+  },
+  {
+    "id": "vengefulspirit",
+    "name": "Vengeful Spirit",
+    "image": "/assets/dota/heroes/vengefulspirit.png"
+  },
+  {
+    "id": "windrunner",
+    "name": "Windranger",
+    "image": "/assets/dota/heroes/windrunner.png"
+  },
+  {
+    "id": "zuus",
+    "name": "Zeus",
+    "image": "/assets/dota/heroes/zuus.png"
+  },
+  {
+    "id": "kunkka",
+    "name": "Kunkka",
+    "image": "/assets/dota/heroes/kunkka.png"
+  },
+  {
+    "id": "lina",
+    "name": "Lina",
+    "image": "/assets/dota/heroes/lina.png"
+  },
+  {
+    "id": "lich",
+    "name": "Lich",
+    "image": "/assets/dota/heroes/lich.png"
+  },
+  {
+    "id": "lion",
+    "name": "Lion",
+    "image": "/assets/dota/heroes/lion.png"
+  },
+  {
+    "id": "shadow_shaman",
+    "name": "Shadow Shaman",
+    "image": "/assets/dota/heroes/shadow_shaman.png"
+  },
+  {
+    "id": "slardar",
+    "name": "Slardar",
+    "image": "/assets/dota/heroes/slardar.png"
+  },
+  {
+    "id": "tidehunter",
+    "name": "Tidehunter",
+    "image": "/assets/dota/heroes/tidehunter.png"
+  },
+  {
+    "id": "witch_doctor",
+    "name": "Witch Doctor",
+    "image": "/assets/dota/heroes/witch_doctor.png"
+  },
+  {
+    "id": "riki",
+    "name": "Riki",
+    "image": "/assets/dota/heroes/riki.png"
+  },
+  {
+    "id": "enigma",
+    "name": "Enigma",
+    "image": "/assets/dota/heroes/enigma.png"
+  },
+  {
+    "id": "tinker",
+    "name": "Tinker",
+    "image": "/assets/dota/heroes/tinker.png"
+  },
+  {
+    "id": "sniper",
+    "name": "Sniper",
+    "image": "/assets/dota/heroes/sniper.png"
+  },
+  {
+    "id": "necrolyte",
+    "name": "Necrophos",
+    "image": "/assets/dota/heroes/necrolyte.png"
+  },
+  {
+    "id": "warlock",
+    "name": "Warlock",
+    "image": "/assets/dota/heroes/warlock.png"
+  },
+  {
+    "id": "beastmaster",
+    "name": "Beastmaster",
+    "image": "/assets/dota/heroes/beastmaster.png"
+  },
+  {
+    "id": "queenofpain",
+    "name": "Queen of Pain",
+    "image": "/assets/dota/heroes/queenofpain.png"
+  },
+  {
+    "id": "venomancer",
+    "name": "Venomancer",
+    "image": "/assets/dota/heroes/venomancer.png"
+  },
+  {
+    "id": "faceless_void",
+    "name": "Faceless Void",
+    "image": "/assets/dota/heroes/faceless_void.png"
+  },
+  {
+    "id": "skeleton_king",
+    "name": "Wraith King",
+    "image": "/assets/dota/heroes/skeleton_king.png"
+  },
+  {
+    "id": "death_prophet",
+    "name": "Death Prophet",
+    "image": "/assets/dota/heroes/death_prophet.png"
+  },
+  {
+    "id": "phantom_assassin",
+    "name": "Phantom Assassin",
+    "image": "/assets/dota/heroes/phantom_assassin.png"
+  },
+  {
+    "id": "pugna",
+    "name": "Pugna",
+    "image": "/assets/dota/heroes/pugna.png"
+  },
+  {
+    "id": "templar_assassin",
+    "name": "Templar Assassin",
+    "image": "/assets/dota/heroes/templar_assassin.png"
+  },
+  {
+    "id": "viper",
+    "name": "Viper",
+    "image": "/assets/dota/heroes/viper.png"
+  },
+  {
+    "id": "luna",
+    "name": "Luna",
+    "image": "/assets/dota/heroes/luna.png"
+  },
+  {
+    "id": "dragon_knight",
+    "name": "Dragon Knight",
+    "image": "/assets/dota/heroes/dragon_knight.png"
+  },
+  {
+    "id": "dazzle",
+    "name": "Dazzle",
+    "image": "/assets/dota/heroes/dazzle.png"
+  },
+  {
+    "id": "rattletrap",
+    "name": "Clockwerk",
+    "image": "/assets/dota/heroes/rattletrap.png"
+  },
+  {
+    "id": "leshrac",
+    "name": "Leshrac",
+    "image": "/assets/dota/heroes/leshrac.png"
+  },
+  {
+    "id": "furion",
+    "name": "Nature's Prophet",
+    "image": "/assets/dota/heroes/furion.png"
+  },
+  {
+    "id": "life_stealer",
+    "name": "Lifestealer",
+    "image": "/assets/dota/heroes/life_stealer.png"
+  },
+  {
+    "id": "dark_seer",
+    "name": "Dark Seer",
+    "image": "/assets/dota/heroes/dark_seer.png"
+  },
+  {
+    "id": "clinkz",
+    "name": "Clinkz",
+    "image": "/assets/dota/heroes/clinkz.png"
+  },
+  {
+    "id": "omniknight",
+    "name": "Omniknight",
+    "image": "/assets/dota/heroes/omniknight.png"
+  },
+  {
+    "id": "enchantress",
+    "name": "Enchantress",
+    "image": "/assets/dota/heroes/enchantress.png"
+  },
+  {
+    "id": "huskar",
+    "name": "Huskar",
+    "image": "/assets/dota/heroes/huskar.png"
+  },
+  {
+    "id": "night_stalker",
+    "name": "Night Stalker",
+    "image": "/assets/dota/heroes/night_stalker.png"
+  },
+  {
+    "id": "broodmother",
+    "name": "Broodmother",
+    "image": "/assets/dota/heroes/broodmother.png"
+  },
+  {
+    "id": "bounty_hunter",
+    "name": "Bounty Hunter",
+    "image": "/assets/dota/heroes/bounty_hunter.png"
+  },
+  {
+    "id": "weaver",
+    "name": "Weaver",
+    "image": "/assets/dota/heroes/weaver.png"
+  },
+  {
+    "id": "jakiro",
+    "name": "Jakiro",
+    "image": "/assets/dota/heroes/jakiro.png"
+  },
+  {
+    "id": "batrider",
+    "name": "Batrider",
+    "image": "/assets/dota/heroes/batrider.png"
+  },
+  {
+    "id": "chen",
+    "name": "Chen",
+    "image": "/assets/dota/heroes/chen.png"
+  },
+  {
+    "id": "spectre",
+    "name": "Spectre",
+    "image": "/assets/dota/heroes/spectre.png"
+  },
+  {
+    "id": "doom_bringer",
+    "name": "Doom",
+    "image": "/assets/dota/heroes/doom_bringer.png"
+  },
+  {
+    "id": "ancient_apparition",
+    "name": "Ancient Apparition",
+    "image": "/assets/dota/heroes/ancient_apparition.png"
+  },
+  {
+    "id": "ursa",
+    "name": "Ursa",
+    "image": "/assets/dota/heroes/ursa.png"
+  },
+  {
+    "id": "spirit_breaker",
+    "name": "Spirit Breaker",
+    "image": "/assets/dota/heroes/spirit_breaker.png"
+  },
+  {
+    "id": "gyrocopter",
+    "name": "Gyrocopter",
+    "image": "/assets/dota/heroes/gyrocopter.png"
+  },
+  {
+    "id": "alchemist",
+    "name": "Alchemist",
+    "image": "/assets/dota/heroes/alchemist.png"
+  },
+  {
+    "id": "invoker",
+    "name": "Invoker",
+    "image": "/assets/dota/heroes/invoker.png"
+  },
+  {
+    "id": "silencer",
+    "name": "Silencer",
+    "image": "/assets/dota/heroes/silencer.png"
+  },
+  {
+    "id": "obsidian_destroyer",
+    "name": "Outworld Destroyer",
+    "image": "/assets/dota/heroes/obsidian_destroyer.png"
+  },
+  {
+    "id": "lycan",
+    "name": "Lycan",
+    "image": "/assets/dota/heroes/lycan.png"
+  },
+  {
+    "id": "brewmaster",
+    "name": "Brewmaster",
+    "image": "/assets/dota/heroes/brewmaster.png"
+  },
+  {
+    "id": "shadow_demon",
+    "name": "Shadow Demon",
+    "image": "/assets/dota/heroes/shadow_demon.png"
+  },
+  {
+    "id": "lone_druid",
+    "name": "Lone Druid",
+    "image": "/assets/dota/heroes/lone_druid.png"
+  },
+  {
+    "id": "chaos_knight",
+    "name": "Chaos Knight",
+    "image": "/assets/dota/heroes/chaos_knight.png"
+  },
+  {
+    "id": "meepo",
+    "name": "Meepo",
+    "image": "/assets/dota/heroes/meepo.png"
+  },
+  {
+    "id": "treant",
+    "name": "Treant Protector",
+    "image": "/assets/dota/heroes/treant.png"
+  },
+  {
+    "id": "ogre_magi",
+    "name": "Ogre Magi",
+    "image": "/assets/dota/heroes/ogre_magi.png"
+  },
+  {
+    "id": "undying",
+    "name": "Undying",
+    "image": "/assets/dota/heroes/undying.png"
+  },
+  {
+    "id": "rubick",
+    "name": "Rubick",
+    "image": "/assets/dota/heroes/rubick.png"
+  },
+  {
+    "id": "disruptor",
+    "name": "Disruptor",
+    "image": "/assets/dota/heroes/disruptor.png"
+  },
+  {
+    "id": "nyx_assassin",
+    "name": "Nyx Assassin",
+    "image": "/assets/dota/heroes/nyx_assassin.png"
+  },
+  {
+    "id": "naga_siren",
+    "name": "Naga Siren",
+    "image": "/assets/dota/heroes/naga_siren.png"
+  },
+  {
+    "id": "keeper_of_the_light",
+    "name": "Keeper of the Light",
+    "image": "/assets/dota/heroes/keeper_of_the_light.png"
+  },
+  {
+    "id": "wisp",
+    "name": "Io",
+    "image": "/assets/dota/heroes/wisp.png"
+  },
+  {
+    "id": "visage",
+    "name": "Visage",
+    "image": "/assets/dota/heroes/visage.png"
+  },
+  {
+    "id": "slark",
+    "name": "Slark",
+    "image": "/assets/dota/heroes/slark.png"
+  },
+  {
+    "id": "medusa",
+    "name": "Medusa",
+    "image": "/assets/dota/heroes/medusa.png"
+  },
+  {
+    "id": "troll_warlord",
+    "name": "Troll Warlord",
+    "image": "/assets/dota/heroes/troll_warlord.png"
+  },
+  {
+    "id": "centaur",
+    "name": "Centaur Warrunner",
+    "image": "/assets/dota/heroes/centaur.png"
+  },
+  {
+    "id": "magnataur",
+    "name": "Magnus",
+    "image": "/assets/dota/heroes/magnataur.png"
+  },
+  {
+    "id": "shredder",
+    "name": "Timbersaw",
+    "image": "/assets/dota/heroes/shredder.png"
+  },
+  {
+    "id": "bristleback",
+    "name": "Bristleback",
+    "image": "/assets/dota/heroes/bristleback.png"
+  },
+  {
+    "id": "tusk",
+    "name": "Tusk",
+    "image": "/assets/dota/heroes/tusk.png"
+  },
+  {
+    "id": "skywrath_mage",
+    "name": "Skywrath Mage",
+    "image": "/assets/dota/heroes/skywrath_mage.png"
+  },
+  {
+    "id": "abaddon",
+    "name": "Abaddon",
+    "image": "/assets/dota/heroes/abaddon.png"
+  },
+  {
+    "id": "elder_titan",
+    "name": "Elder Titan",
+    "image": "/assets/dota/heroes/elder_titan.png"
+  },
+  {
+    "id": "legion_commander",
+    "name": "Legion Commander",
+    "image": "/assets/dota/heroes/legion_commander.png"
+  },
+  {
+    "id": "ember_spirit",
+    "name": "Ember Spirit",
+    "image": "/assets/dota/heroes/ember_spirit.png"
+  },
+  {
+    "id": "earth_spirit",
+    "name": "Earth Spirit",
+    "image": "/assets/dota/heroes/earth_spirit.png"
+  },
+  {
+    "id": "terrorblade",
+    "name": "Terrorblade",
+    "image": "/assets/dota/heroes/terrorblade.png"
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "image": "/assets/dota/heroes/phoenix.png"
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "image": "/assets/dota/heroes/oracle.png"
+  },
+  {
+    "id": "techies",
+    "name": "Techies",
+    "image": "/assets/dota/heroes/techies.png"
+  },
+  {
+    "id": "winter_wyvern",
+    "name": "Winter Wyvern",
+    "image": "/assets/dota/heroes/winter_wyvern.png"
+  },
+  {
+    "id": "arc_warden",
+    "name": "Arc Warden",
+    "image": "/assets/dota/heroes/arc_warden.png"
+  },
+  {
+    "id": "abyssal_underlord",
+    "name": "Underlord",
+    "image": "/assets/dota/heroes/abyssal_underlord.png"
+  },
+  {
+    "id": "monkey_king",
+    "name": "Monkey King",
+    "image": "/assets/dota/heroes/monkey_king.png"
+  },
+  {
+    "id": "pangolier",
+    "name": "Pangolier",
+    "image": "/assets/dota/heroes/pangolier.png"
+  },
+  {
+    "id": "dark_willow",
+    "name": "Dark Willow",
+    "image": "/assets/dota/heroes/dark_willow.png"
+  },
+  {
+    "id": "grimstroke",
+    "name": "Grimstroke",
+    "image": "/assets/dota/heroes/grimstroke.png"
+  },
+  {
+    "id": "mars",
+    "name": "Mars",
+    "image": "/assets/dota/heroes/mars.png"
+  },
+  {
+    "id": "void_spirit",
+    "name": "Void Spirit",
+    "image": "/assets/dota/heroes/void_spirit.png"
+  },
+  {
+    "id": "snapfire",
+    "name": "Snapfire",
+    "image": "/assets/dota/heroes/snapfire.png"
+  },
+  {
+    "id": "hoodwink",
+    "name": "Hoodwink",
+    "image": "/assets/dota/heroes/hoodwink.png"
+  },
+  {
+    "id": "dawnbreaker",
+    "name": "Dawnbreaker",
+    "image": "/assets/dota/heroes/dawnbreaker.png"
+  },
+  {
+    "id": "marci",
+    "name": "Marci",
+    "image": "/assets/dota/heroes/marci.png"
+  },
+  {
+    "id": "primal_beast",
+    "name": "Primal Beast",
+    "image": "/assets/dota/heroes/primal_beast.png"
+  },
+  {
+    "id": "muerta",
+    "name": "Muerta",
+    "image": "/assets/dota/heroes/muerta.png"
+  },
+  {
+    "id": "ringmaster",
+    "name": "Ringmaster",
+    "image": "/assets/dota/heroes/ringmaster.png"
+  },
+  {
+    "id": "kez",
+    "name": "Kez",
+    "image": "/assets/dota/heroes/kez.png"
+  },
+  {
+    "id": "largo",
+    "name": "Largo",
+    "image": "/assets/dota/heroes/largo.png"
+  }
+]
