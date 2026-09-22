@@ -1,0 +1,1 @@
+{"name":"guess-who-client","private":true,"type":"module","scripts":{"dev":"vite","build":"tsc -b && vite build"},"dependencies":{"@vitejs/plugin-react":"latest","socket.io-client":"^4.8.1","vite":"latest","typescript":"^5.7.2","react":"latest","react-dom":"latest"},"devDependencies":{"@types/react":"latest","@types/react-dom":"latest"}}
